@@ -1,0 +1,4 @@
+include ':paging-ui'
+include ':paging'
+include ':app'
+rootProject.name = "Pagination"
